@@ -12,7 +12,7 @@ export const Hero = () => {
         alt="heroBg"
       />
 
-      <div className="w-auto flex flex-col  items-center  z-50 opacity-100  absolute md:bottom-16 md:left-40 bottom-9 left-6">
+      <div className="w-auto flex flex-col  items-center  z-40 opacity-100  absolute md:bottom-16 md:left-40 bottom-9 left-6">
         <h1 className="text-white capitalize text-[36px] font-[IBM Plex Sans] font-bold">
           Computer Engineering
         </h1>
